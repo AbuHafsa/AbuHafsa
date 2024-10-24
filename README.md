@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mohamed
 
-<!--
-**AbuHafsa/AbuHafsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solution Architect & Compiler Enthusiast who loves diving deep into JavaScript ecosystems.
 
-Here are some ideas to get you started:
+💬 Feel free to reach out if you want to discuss:
+- Solution Architecture
+- Compiler Design
+- JavaScript/TypeScript
+- Build Tools & Bundlers
+- System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Architecture & Engineering
+
+- Enterprise Solution Architecture
+- Distributed Systems Design
+- API Design & Integration
+- Performance Optimization
+- Cloud Architecture (AWS/Azure/GCP)
+
+## 🔍 Current Focus Areas
+
+- Compiler Design & Implementation
+- Build Tool Optimization
+- Modern JavaScript Bundlers
+- Performance Optimization
+- System Architecture at Scale
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuHafsa&show_icons=true&theme=dracula)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbuHafsa&theme=dracula)
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-houssein-douici)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](@abusarah_tech)
