@@ -27,11 +27,11 @@ Solution Architect & Compiler Enthusiast who loves diving deep into JavaScript e
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuHafsa&show_icons=true&theme=dracula)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abusarah-tech&show_icons=true&theme=dracula)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbuHafsa&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abusarah-tech&theme=dracula)
 
 ## 📫 Let's Connect!
 
